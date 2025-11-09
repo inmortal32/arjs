@@ -1,1 +1,22 @@
-
+      <a-box position="0 0 -10" rotation="0 45 0" color="#4CC3D9" shadow="" material="color: #feeba4"
+        geometry="depth: 10; width: 10"></a-box><a-box position="0 1.5 -10" rotation="0 45 0" color="#4CC3D9" shadow=""
+        material="color: #feeba4" geometry="depth: 7; width: 7"></a-box><a-box position="0 2 -10" rotation="0 45 0"
+        color="#4CC3D9" shadow="" material="color: #feeba4" geometry="depth: 6; width: 6"></a-box><a-box
+        position="0 2.5 -10" rotation="0 45 0" color="#4CC3D9" shadow="" material="color: #feeba4"
+        geometry="depth: 5; width: 5"></a-box><a-box position="0 3 -10" rotation="0 45 0" color="#4CC3D9" shadow=""
+        material="color: #feeba4" geometry="depth: 4; width: 4"></a-box><a-box position="0 3.5 -10" rotation="0 45 0"
+        color="#4CC3D9" shadow="" material="color: #feeba4" geometry="depth: 3; width: 3"></a-box><a-box
+        position="0 4 -10" rotation="0 45 0" color="#4CC3D9" shadow="" material="color: #feeba4"
+        geometry="depth: 2; width: 2"></a-box><a-box position="0 4.5 -10" rotation="0 45 0" color="#4CC3D9" shadow=""
+        material="color: #feeba4" geometry=""></a-box><a-box position="0 4 -10" rotation="0 45 0" color="#4CC3D9"
+        shadow="" material="color: #feeba4" geometry="depth: 2; width: 2"></a-box><a-box position="0 3.5 -10"
+        rotation="0 45 0" color="#4CC3D9" shadow="" material="color: #feeba4"
+        geometry="depth: 3; width: 3"></a-box><a-box position="0 3 -10" rotation="0 45 0" color="#4CC3D9" shadow=""
+        material="color: #feeba4" geometry="depth: 4; width: 4"></a-box><a-box position="0 2.5 -10" rotation="0 45 0"
+        color="#4CC3D9" shadow="" material="color: #feeba4" geometry="depth: 5; width: 5"></a-box><a-box
+        position="0 2 -10" rotation="0 45 0" color="#4CC3D9" shadow="" material="color: #feeba4"
+        geometry="depth: 6; width: 6"></a-box><a-box position="0 1.5 -10" rotation="0 45 0" color="#4CC3D9" shadow=""
+        material="color: #feeba4" geometry="depth: 7; width: 7"></a-box><a-box position="0 1 -10" rotation="0 45 0"
+        color="#4CC3D9" shadow="" material="color: #feeba4" geometry="depth: 8; width: 8"></a-box><a-box
+        position="0 0.5 -10" rotation="0 45 0" color="#4CC3D9" shadow="" material="color: #feeba4"
+        geometry="depth: 9; width: 9"></a-box>
